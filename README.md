@@ -16,7 +16,9 @@
 7. Add a hover to the grid items, so that they seem like something happens when you click on them
 8. Add other styling until your page matches the example screenshot below
 
+![example](example.png)
+
 ## Notices
 
-BG1 is from https://unsplash.com/photos/HM7vrtxeFDs
-BG2 is from https://unsplash.com/photos/1L71sPT5XKc
+- BG1 is from https://unsplash.com/photos/HM7vrtxeFDs
+- BG2 is from https://unsplash.com/photos/1L71sPT5XKc

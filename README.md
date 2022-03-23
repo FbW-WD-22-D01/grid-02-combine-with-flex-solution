@@ -1,4 +1,4 @@
-# Grid and flexbox, living in harmony!
+# Grid and flexbox, living in harmony - Lösung
 
 **Regeln**
 - Nicht den HTML-Code bearbeiten --> nur CSS-Änderungen

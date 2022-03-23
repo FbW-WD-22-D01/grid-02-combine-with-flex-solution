@@ -1,5 +1,28 @@
 # Grid and flexbox, living in harmony!
 
+**Regeln**
+- Nicht den HTML-Code bearbeiten --> nur CSS-Änderungen
+- Bearbeitet nicht die ersten 20 Zeilen CSS
+
+**Anleitung**
+
+1. Macht den Container zu einem "grid"
+2. Das "grid" bekommt vier Spalten, die gleichmäßig verteilt sind
+3. Die "grid items" sollen einen Abstand von "0.5em" zueinander haben.
+4. Die Inhalte der einzelnen "grid items" sollten vertikal und horizontal zentriert sein, nutzt dafür "flexbox".
+5. Die "grid items" sollen eine Textfarbe #eee und einen halbtransparenten Hintergrund haben.
+7. Fügt zu den "grid items" einen hover hinzu. 
+8. Passt das Styling entsprechend dem unten stehenden mockup an.
+
+
+![example](example.png)
+
+## Hinweise
+
+- BG1 -->  https://unsplash.com/photos/HM7vrtxeFDs
+- BG2 -->  https://unsplash.com/photos/1L71sPT5XKc
+
+
 **Rules**
 
 - Don't edit the HTML --> CSS changes only
